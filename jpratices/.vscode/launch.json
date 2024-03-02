@@ -1,0 +1,126 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Ahispack",
+      "request": "launch",
+      "mainClass": "Ahispack",
+      "projectName": "jpratices_4aab2933"
+    },
+    {
+      "type": "java",
+      "name": "particesinterface",
+      "request": "launch",
+      "mainClass": "particesinterface",
+      "projectName": "jpratices_4aab2933"
+    },
+    {
+      "type": "java",
+      "name": "polymorphism",
+      "request": "launch",
+      "mainClass": "polymorphism",
+      "projectName": "jpratices_4aab2933"
+    },
+    {
+      "type": "java",
+      "name": "Inheritanceininterface",
+      "request": "launch",
+      "mainClass": "Inheritanceininterface",
+      "projectName": "jpratices_4aab2933"
+    },
+    {
+      "type": "java",
+      "name": "Defaultmethod",
+      "request": "launch",
+      "mainClass": "Defaultmethod",
+      "projectName": "jpratices_4aab2933"
+    },
+    {
+      "type": "java",
+      "name": "Interface",
+      "request": "launch",
+      "mainClass": "Interface",
+      "projectName": "jpratices_4aab2933"
+    },
+    {
+      "type": "java",
+      "name": "Abtract",
+      "request": "launch",
+      "mainClass": "Abtract",
+      "projectName": "jpratices_4aab2933"
+    },
+    {
+      "type": "java",
+      "name": "Inhertanceques",
+      "request": "launch",
+      "mainClass": "Inhertanceques",
+      "projectName": "jpratices_4aab2933"
+    },
+    {
+      "type": "java",
+      "name": "InharitanceConst",
+      "request": "launch",
+      "mainClass": "InharitanceConst",
+      "projectName": "jpratices_4aab2933"
+    },
+    {
+      "type": "java",
+      "name": "Inheritance",
+      "request": "launch",
+      "mainClass": "Inheritance",
+      "projectName": "jpratices_4aab2933"
+    },
+    {
+      "type": "java",
+      "name": "Constructorques",
+      "request": "launch",
+      "mainClass": "Constructorques",
+      "projectName": "jpratices_4aab2933"
+    },
+    {
+      "type": "java",
+      "name": "Constructor",
+      "request": "launch",
+      "mainClass": "Constructor",
+      "projectName": "jpratices_4aab2933"
+    },
+    {
+      "type": "java",
+      "name": "Classques",
+      "request": "launch",
+      "mainClass": "Classques",
+      "projectName": "jpratices_4aab2933"
+    },
+    {
+      "type": "java",
+      "name": "customclass",
+      "request": "launch",
+      "mainClass": "customclass",
+      "projectName": "jpratices_4aab2933"
+    },
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "All",
+      "request": "launch",
+      "mainClass": "All",
+      "projectName": "jpratices_4aab2933"
+    }
+  ]
+}

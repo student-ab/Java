@@ -1,0 +1,56 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "student",
+      "request": "launch",
+      "mainClass": "student",
+      "projectName": "javapro_21897"
+    },
+    {
+      "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "Array",
+      "projectName": "javapro_21897"
+    },
+    {
+      "type": "java",
+      "name": "Loop",
+      "request": "launch",
+      "mainClass": "Loop",
+      "projectName": "JAVA PRO_2ed111c3"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Areaofcircle",
+      "request": "launch",
+      "mainClass": "Areaofcircle",
+      "projectName": "JAVA PRO_2ed111c3"
+    },
+    {
+      "type": "java",
+      "name": "IfElse",
+      "request": "launch",
+      "mainClass": "IfElse",
+      "projectName": "JAVA PRO_2ed111c3"
+    },
+    {
+      "type": "java",
+      "name": "Operator",
+      "request": "launch",
+      "mainClass": "Operator",
+      "projectName": "JAVA PRO_2ed111c3"
+    }
+  ]
+}
