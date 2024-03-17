@@ -73,3 +73,89 @@ public class Inhertanceques {
   }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class phone
+{
+  
+public void call ()
+  {
+	
+System.out.println ("calling.....");
+
+} 
+} 
+class smartphone extends phone
+{
+  
+public void music ()
+  {
+	
+System.out.println ("music.....");
+  
+} 
+public void cemera ()
+  {
+	
+System.out.println ("click photo.....");
+  
+} 
+public void internet ()
+  {
+	
+System.out.println ("Browser using.....");
+
+} 
+ 
+} 
+public class Inhertanceques 
+ 
+
+{
+  
+ 
+ 
+public static void main (String[]args) 
+ { 
+phone p = new phone ();
+	
+p.music();
+	
+p.call ();
+	
+p.cemera ();
+	
+p.internet ();
+	
+smartphone s = new smartphone ();
+	
+s.music ();
+	
+s.call ();
+	
+s.cemera ();
+	
+s.internet ();
+
+ 
+ 
+ 
+ 
+ 
+ 
+} 
+ 
+} 
+

@@ -63,6 +63,7 @@ public class polymorphism {
     // cam1.getnetworks(); not allowed
 
     Mysmartphone s = new Mysmartphone();
+    
     s.getnetworks();
     s.record4kvideo();
     s.takesnap();

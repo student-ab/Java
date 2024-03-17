@@ -13,6 +13,7 @@ class Know {
     this.id = a;
     this.name = n;
   }
+  
 
   public String getname() {
     return name;

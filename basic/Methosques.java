@@ -4,8 +4,10 @@ static void display() {
 
 public class Methosques {
   public static void main(String[] args) {
+    
     display()
     
   }
 
 }
+

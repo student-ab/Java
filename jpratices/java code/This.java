@@ -2,7 +2,7 @@ class Ekclass {
   int i;
 
   public Ekclass(int a) {
-    this.i = a;
+    this.i = a; // work of setter
     System.out.println("abhishek function");
 
   }
